@@ -1,0 +1,60 @@
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+F:\3 KLASA\apl. deskto (olsza)\L10 - visual studio wpf kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+F:\3 KLASA\apl. deskto (olsza)\L10 - c# kalkulator\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\jonas\Desktop\Calculator\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\jonas\Desktop\Calculator\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\jonas\Desktop\Calculator\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\jonas\Desktop\Calculator\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\jonas\Desktop\Calculator\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\jonas\Desktop\Calculator\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\jonas\Desktop\Calculator\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
